@@ -1,0 +1,636 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"1116","Harborwalk, Waterfront, Boston","3","0 Flaherty Way, D Street / West Broadway, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",491,326,737
+"1116","Harborwalk, Waterfront, Boston","5","0 Queensberry Street, Fenway/Kenmore, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",733,468,1146
+"1116","Harborwalk, Waterfront, Boston","13","200 Liberty Street, Braintree","6/9/2018 - 6/9/2018, Every day, Daily Average",1226,956,1571
+"1116","Harborwalk, Waterfront, Boston","14","400 Cushing Street, Hingham","6/9/2018 - 6/9/2018, Every day, Daily Average",1532,1217,1927
+"1116","Harborwalk, Waterfront, Boston","16","100 Kenrick Street, Oak Square, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1317,1006,1723
+"1116","Harborwalk, Waterfront, Boston","17","0 Maggi Road, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",894,646,1236
+"1116","Harborwalk, Waterfront, Boston","18","0 Lake Street, Billerica","6/9/2018 - 6/9/2018, Every day, Daily Average",1542,1234,1926
+"1116","Harborwalk, Waterfront, Boston","19","200 Ocean Street, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1566,1268,1932
+"1116","Harborwalk, Waterfront, Boston","20","0 Florence Street, Everett","6/9/2018 - 6/9/2018, Every day, Daily Average",947,698,1283
+"1116","Harborwalk, Waterfront, Boston","21","0 Canal Lane, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",382,223,653
+"1116","Harborwalk, Waterfront, Boston","23","0 Ocallaghan Way, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1352,1077,1697
+"1116","Harborwalk, Waterfront, Boston","25","0 Baldpate Road, Georgetown","6/9/2018 - 6/9/2018, Every day, Daily Average",2148,1797,2567
+"1116","Harborwalk, Waterfront, Boston","27","100 Inner Belt Road, Inner Belt, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",282,139,570
+"1116","Harborwalk, Waterfront, Boston","28","0 Lincoln Road, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",1152,829,1598
+"1116","Harborwalk, Waterfront, Boston","29","100 Crosby Street, Arlington","6/9/2018 - 6/9/2018, Every day, Daily Average",905,697,1174
+"1116","Harborwalk, Waterfront, Boston","30","0 Stagecoach Way, Hopkinton","6/9/2018 - 6/9/2018, Every day, Daily Average",2482,1930,3191
+"1116","Harborwalk, Waterfront, Boston","32","0 Gainsborough Street, Fenway/Kenmore, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",891,569,1394
+"1116","Harborwalk, Waterfront, Boston","33","200 Prospect Avenue, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",656,432,995
+"1116","Harborwalk, Waterfront, Boston","37","0 Perrin Street, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",996,642,1543
+"1116","Harborwalk, Waterfront, Boston","38","McLean Street, Belmont","6/9/2018 - 6/9/2018, Every day, Daily Average",1422,1126,1795
+"1116","Harborwalk, Waterfront, Boston","40","0 Aycliffe Road, Swampscott","6/9/2018 - 6/9/2018, Every day, Daily Average",1769,1403,2229
+"1116","Harborwalk, Waterfront, Boston","41","200 Sumner Street, East Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",370,225,606
+"1116","Harborwalk, Waterfront, Boston","44","0 Georgetown Road, Boxford","6/9/2018 - 6/9/2018, Every day, Daily Average",2032,1654,2495
+"1116","Harborwalk, Waterfront, Boston","46","300 River Street, Cambridgeport, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",939,656,1343
+"1116","Harborwalk, Waterfront, Boston","47","200 Huntington Avenue, Prudential / St. Botolph, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",941,554,1597
+"1116","Harborwalk, Waterfront, Boston","48","100 Gove Street, East Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",394,222,698
+"1116","Harborwalk, Waterfront, Boston","51","0 Peterborough Street, West Fens, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",720,440,1175
+"1116","Harborwalk, Waterfront, Boston","52","0 Berkshire Street, Wellington-Harrington, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",754,522,1088
+"1116","Harborwalk, Waterfront, Boston","53","600 Commonwealth Avenue, Fenway/Kenmore, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",638,408,995
+"1116","Harborwalk, Waterfront, Boston","54","0 Binney Street, Arefth, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",620,411,934
+"1116","Harborwalk, Waterfront, Boston","58","100 Summit Avenue, Corey Hill, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",1056,759,1467
+"1116","Harborwalk, Waterfront, Boston","59","300 Shea Memorial Drive, SouthField, Weymouth","6/9/2018 - 6/9/2018, Every day, Daily Average",1750,1445,2119
+"1116","Harborwalk, Waterfront, Boston","60","Pilgrims Highway, Weymouth","6/9/2018 - 6/9/2018, Every day, Daily Average",1419,1120,1797
+"1116","Harborwalk, Waterfront, Boston","62","200 Pond Street, Avon","6/9/2018 - 6/9/2018, Every day, Daily Average",1787,1276,2502
+"1116","Harborwalk, Waterfront, Boston","65","0 Glen Road, Reading","6/9/2018 - 6/9/2018, Every day, Daily Average",1052,872,1268
+"1116","Harborwalk, Waterfront, Boston","67","0 Nightingale Lane, Salem","6/9/2018 - 6/9/2018, Every day, Daily Average",2123,1773,2540
+"1116","Harborwalk, Waterfront, Boston","68","100 Beacon Street, Back Bay East, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",508,285,903
+"1116","Harborwalk, Waterfront, Boston","69","0 Burrill Avenue, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1640,1330,2020
+"1116","Harborwalk, Waterfront, Boston","72","0 Stonington Street, North Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",1768,1490,2096
+"1116","Harborwalk, Waterfront, Boston","77","0 The Mountain Road, Framingham","6/9/2018 - 6/9/2018, Every day, Daily Average",1880,1503,2350
+"1116","Harborwalk, Waterfront, Boston","78","0 John Street, Woburn","6/9/2018 - 6/9/2018, Every day, Daily Average",954,812,1120
+"1116","Harborwalk, Waterfront, Boston","79","Massachusetts State House, Beacon Hill, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",243,88,669
+"1116","Harborwalk, Waterfront, Boston","80","0 Bussell Road, West Medford, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",599,427,838
+"1116","Harborwalk, Waterfront, Boston","82","100 Private Alley 527, South End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",890,567,1396
+"1116","Harborwalk, Waterfront, Boston","83","0 Golden Drive, Winthrop","6/9/2018 - 6/9/2018, Every day, Daily Average",1069,752,1518
+"1116","Harborwalk, Waterfront, Boston","89","0 Cottage Street, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1483,1151,1910
+"1116","Harborwalk, Waterfront, Boston","92","Southeast Expressway, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1037,743,1445
+"1116","Harborwalk, Waterfront, Boston","94","300 Marlborough Street, Back Bay, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",714,433,1176
+"1116","Harborwalk, Waterfront, Boston","95","0 G Street, South Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",674,491,923
+"1116","Harborwalk, Waterfront, Boston","97","300 Bishops Forest Drive, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1702,1353,2140
+"1116","Harborwalk, Waterfront, Boston","98","100 Suffolk Road, Chestnut Hill, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1293,979,1707
+"1116","Harborwalk, Waterfront, Boston","105","100 Columbia Street, The Port, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",896,611,1313
+"1116","Harborwalk, Waterfront, Boston","113","0 McKinley Road, Salem","6/9/2018 - 6/9/2018, Every day, Daily Average",2482,2294,2684
+"1116","Harborwalk, Waterfront, Boston","114","600 Western Avenue, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1841,1501,2256
+"1116","Harborwalk, Waterfront, Boston","116","200 Eastern Avenue, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1859,1686,2048
+"1116","Harborwalk, Waterfront, Boston","118","0 County Way Extension, Beverly","6/9/2018 - 6/9/2018, Every day, Daily Average",1669,1411,1973
+"1116","Harborwalk, Waterfront, Boston","120","0 Cherrywood Circle, Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",1492,1267,1755
+"1116","Harborwalk, Waterfront, Boston","121","0 Macy Street, Amesbury","6/9/2018 - 6/9/2018, Every day, Daily Average",2643,2336,2989
+"1116","Harborwalk, Waterfront, Boston","126","200 Paris Way, Woburn","6/9/2018 - 6/9/2018, Every day, Daily Average",1511,1198,1904
+"1116","Harborwalk, Waterfront, Boston","127","200 Vinton Street, Melrose","6/9/2018 - 6/9/2018, Every day, Daily Average",1007,806,1257
+"1116","Harborwalk, Waterfront, Boston","128","100 Glen Street, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",842,657,1078
+"1116","Harborwalk, Waterfront, Boston","129","0 Glendale Street, Everett","6/9/2018 - 6/9/2018, Every day, Daily Average",1122,752,1672
+"1116","Harborwalk, Waterfront, Boston","130","0 Cambria Street, Spring Hill, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",778,567,1066
+"1116","Harborwalk, Waterfront, Boston","131","2000 Massachusetts Avenue, North Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1194,837,1701
+"1116","Harborwalk, Waterfront, Boston","132","0 Townsend Road, Belmont","6/9/2018 - 6/9/2018, Every day, Daily Average",1264,1008,1584
+"1116","Harborwalk, Waterfront, Boston","133","0 Old Mill Road, West Concord, Concord","6/9/2018 - 6/9/2018, Every day, Daily Average",1917,1708,2150
+"1116","Harborwalk, Waterfront, Boston","134","Yankee Division Highway, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1496,1377,1624
+"1116","Harborwalk, Waterfront, Boston","135","100 Orchard Street, Watertown","6/9/2018 - 6/9/2018, Every day, Daily Average",1285,1015,1626
+"1116","Harborwalk, Waterfront, Boston","136","200 Adams Avenue, West Newton, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1214,869,1694
+"1116","Harborwalk, Waterfront, Boston","137","0 Badger Road, Framingham","6/9/2018 - 6/9/2018, Every day, Daily Average",1950,1584,2400
+"1116","Harborwalk, Waterfront, Boston","140","100 Montclair Avenue, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",952,640,1414
+"1116","Harborwalk, Waterfront, Boston","141","0 Brooks Avenue, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1153,880,1509
+"1116","Harborwalk, Waterfront, Boston","142","0 Althea Road, Randolph","6/9/2018 - 6/9/2018, Every day, Daily Average",1762,1414,2194
+"1116","Harborwalk, Waterfront, Boston","143","0 Lantern Lane, Wrentham","6/9/2018 - 6/9/2018, Every day, Daily Average",2992,2681,3337
+"1116","Harborwalk, Waterfront, Boston","144","900 Massachusetts 139, Stoughton","6/9/2018 - 6/9/2018, Every day, Daily Average",1820,1206,2744
+"1116","Harborwalk, Waterfront, Boston","150","Monastery Path, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1153,872,1523
+"1116","Harborwalk, Waterfront, Boston","151","300 Commercial Street, North End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",171,58,501
+"1116","Harborwalk, Waterfront, Boston","152","400 Border Street, East Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",614,390,964
+"1116","Harborwalk, Waterfront, Boston","153","200 Marginal Street, Jeffries Point, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",500,292,854
+"1116","Harborwalk, Waterfront, Boston","154","700 Washington Street, Downtown, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",493,283,856
+"1116","Harborwalk, Waterfront, Boston","155","100 West Springfield Street, South End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",806,520,1247
+"1116","Harborwalk, Waterfront, Boston","156","0 Academy Road, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1037,765,1405
+"1116","Harborwalk, Waterfront, Boston","157","100 Train Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1000,761,1313
+"1116","Harborwalk, Waterfront, Boston","158","100 Sycamore Street, Roslindale, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1559,1339,1813
+"1116","Harborwalk, Waterfront, Boston","159","0 Congress Avenue, Chelsea","6/9/2018 - 6/9/2018, Every day, Daily Average",692,447,1069
+"1116","Harborwalk, Waterfront, Boston","160","0 Franklin Place, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",730,510,1043
+"1116","Harborwalk, Waterfront, Boston","161","0 William Fairfield Drive, Wenham","6/9/2018 - 6/9/2018, Every day, Daily Average",2095,1771,2477
+"1116","Harborwalk, Waterfront, Boston","167","0 Miner Street, Fenway/Kenmore, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",773,502,1188
+"1116","Harborwalk, Waterfront, Boston","175","0 Hazelwood Avenue, Attleboro","6/9/2018 - 6/9/2018, Every day, Daily Average",3443,2710,4373
+"1116","Harborwalk, Waterfront, Boston","182","0 The Greenway, Swampscott","6/9/2018 - 6/9/2018, Every day, Daily Average",2029,1708,2410
+"1116","Harborwalk, Waterfront, Boston","184","0 South Street, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1470,1125,1919
+"1116","Harborwalk, Waterfront, Boston","185","0 Paleologos Street, Peabody","6/9/2018 - 6/9/2018, Every day, Daily Average",1715,1435,2048
+"1116","Harborwalk, Waterfront, Boston","190","0 Erie Road, Methuen","6/9/2018 - 6/9/2018, Every day, Daily Average",1879,1724,2047
+"1116","Harborwalk, Waterfront, Boston","192","0 Fazio Farm Road, Georgetown","6/9/2018 - 6/9/2018, Every day, Daily Average",2274,1927,2683
+"1116","Harborwalk, Waterfront, Boston","198","100 Colonial Drive, Littleton Common, Littleton","6/9/2018 - 6/9/2018, Every day, Daily Average",2352,2134,2592
+"1116","Harborwalk, Waterfront, Boston","199","0 Burlington Street, Woburn","6/9/2018 - 6/9/2018, Every day, Daily Average",1156,970,1377
+"1116","Harborwalk, Waterfront, Boston","200","100 Orange Street, Reading","6/9/2018 - 6/9/2018, Every day, Daily Average",945,723,1234
+"1116","Harborwalk, Waterfront, Boston","201","0 Cleveland Street, Melrose","6/9/2018 - 6/9/2018, Every day, Daily Average",922,741,1146
+"1116","Harborwalk, Waterfront, Boston","202","0 Girard Road, Winchester","6/9/2018 - 6/9/2018, Every day, Daily Average",1037,845,1271
+"1116","Harborwalk, Waterfront, Boston","203","0 Hall Street, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",410,259,646
+"1116","Harborwalk, Waterfront, Boston","204","0 Mohan Street, Everett","6/9/2018 - 6/9/2018, Every day, Daily Average",993,710,1387
+"1116","Harborwalk, Waterfront, Boston","205","0 Cutler Street, Magoun Square, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",731,518,1031
+"1116","Harborwalk, Waterfront, Boston","206","0 Claremon Street, Teele Square, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",1016,780,1322
+"1116","Harborwalk, Waterfront, Boston","207","0 Museum Way, East Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",393,184,835
+"1116","Harborwalk, Waterfront, Boston","208","0 Jefferson Street, Wellington-Harrington, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",796,556,1139
+"1116","Harborwalk, Waterfront, Boston","209","100 Magazine Street, Cambridgeport, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",919,620,1361
+"1116","Harborwalk, Waterfront, Boston","210","0 Cowperthwaite Garage, Cowperthwaite Street, Riverside, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",960,686,1343
+"1116","Harborwalk, Waterfront, Boston","211","0 Haskell Street, North Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1208,869,1677
+"1116","Harborwalk, Waterfront, Boston","212","100 Claremont Avenue, Arlington","6/9/2018 - 6/9/2018, Every day, Daily Average",1121,906,1385
+"1116","Harborwalk, Waterfront, Boston","213","0 Gorham Road, Belmont","6/9/2018 - 6/9/2018, Every day, Daily Average",1312,1054,1633
+"1116","Harborwalk, Waterfront, Boston","214","0 Valley View Road, Weston","6/9/2018 - 6/9/2018, Every day, Daily Average",1576,1337,1856
+"1116","Harborwalk, Waterfront, Boston","215","0 Rose Avenue, Watertown","6/9/2018 - 6/9/2018, Every day, Daily Average",1338,1072,1668
+"1116","Harborwalk, Waterfront, Boston","216","200 Cabot Street, Newtonville, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1336,818,2180
+"1116","Harborwalk, Waterfront, Boston","217","0 Hartford Street, Natick","6/9/2018 - 6/9/2018, Every day, Daily Average",1748,1431,2134
+"1116","Harborwalk, Waterfront, Boston","218","0 Church Street, Framingham","6/9/2018 - 6/9/2018, Every day, Daily Average",2131,1866,2433
+"1116","Harborwalk, Waterfront, Boston","220","100 Coolidge Street, North Brookline, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",1101,816,1484
+"1116","Harborwalk, Waterfront, Boston","221","0 Colbourne Crescent, Aspinwall Hill, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",1156,859,1554
+"1116","Harborwalk, Waterfront, Boston","222","0 Walnut Place, High Street Hill, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",1209,908,1608
+"1116","Harborwalk, Waterfront, Boston","223","0 Berkshire Road, Babson Park, Wellesley","6/9/2018 - 6/9/2018, Every day, Daily Average",1652,1323,2061
+"1116","Harborwalk, Waterfront, Boston","225","0 Longmeadow Drive, Westwood","6/9/2018 - 6/9/2018, Every day, Daily Average",1904,1573,2303
+"1116","Harborwalk, Waterfront, Boston","227","1100 Commonwealth Avenue, Allston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1149,832,1585
+"1116","Harborwalk, Waterfront, Boston","228","200 Central Avenue, Milton","6/9/2018 - 6/9/2018, Every day, Daily Average",1393,1001,1936
+"1116","Harborwalk, Waterfront, Boston","229","100 Main Street, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1618,1257,2081
+"1116","Harborwalk, Waterfront, Boston","232","0 Free Street, Hingham","6/9/2018 - 6/9/2018, Every day, Daily Average",1916,1704,2153
+"1116","Harborwalk, Waterfront, Boston","237","Fall River Expressway, Brockton","6/9/2018 - 6/9/2018, Every day, Daily Average",2182,1592,2990
+"1116","Harborwalk, Waterfront, Boston","241","100 Colborne Road, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1290,1018,1634
+"1116","Harborwalk, Waterfront, Boston","242","0 Park Street, Charlestown, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",388,236,636
+"1116","Harborwalk, Waterfront, Boston","243","0 San Juan Street, South End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",672,417,1082
+"1116","Harborwalk, Waterfront, Boston","244","500 Columbus Avenue, South End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",944,629,1416
+"1116","Harborwalk, Waterfront, Boston","245","100 Saint Alphonsus Street, Mission Hill, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1063,789,1432
+"1116","Harborwalk, Waterfront, Boston","246","300 Mount Vernon Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",610,401,925
+"1116","Harborwalk, Waterfront, Boston","247","0 Bowdoin Avenue, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1374,874,2157
+"1116","Harborwalk, Waterfront, Boston","248","0 Evans Street, West Codman Hill / West Lower Mills, Dorchester Center, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1177,865,1600
+"1116","Harborwalk, Waterfront, Boston","249","200 River Street, Mattapan, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1443,1005,2071
+"1116","Harborwalk, Waterfront, Boston","250","0 Gretter Road, West Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1501,1176,1914
+"1116","Harborwalk, Waterfront, Boston","251","0 Grotto Glen Road, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1128,835,1523
+"1116","Harborwalk, Waterfront, Boston","252","0 Grove Street, West Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1797,1557,2073
+"1116","Harborwalk, Waterfront, Boston","253","0 Kimball Road, Chelsea","6/9/2018 - 6/9/2018, Every day, Daily Average",609,381,972
+"1116","Harborwalk, Waterfront, Boston","254","1200 North Shore Road, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",900,700,1156
+"1116","Harborwalk, Waterfront, Boston","255","Rosedale Avenue, Forest Hills / Woodbourne, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1459,1122,1896
+"1116","Harborwalk, Waterfront, Boston","261","0 6th Street, Arefth, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",652,430,986
+"1116","Harborwalk, Waterfront, Boston","268","0 Congress Street, Salem","6/9/2018 - 6/9/2018, Every day, Daily Average",2429,2132,2766
+"1116","Harborwalk, Waterfront, Boston","270","0 Sugar Hill Circle, Methuen","6/9/2018 - 6/9/2018, Every day, Daily Average",1592,1363,1858
+"1116","Harborwalk, Waterfront, Boston","273","500 Trull Road, North Tewksbury, Tewksbury","6/9/2018 - 6/9/2018, Every day, Daily Average",1857,1533,2249
+"1116","Harborwalk, Waterfront, Boston","274","0 Jensen Avenue, Chelmsford","6/9/2018 - 6/9/2018, Every day, Daily Average",1813,1645,1997
+"1116","Harborwalk, Waterfront, Boston","275","0 Theresa Road, Stoneham","6/9/2018 - 6/9/2018, Every day, Daily Average",1081,822,1419
+"1116","Harborwalk, Waterfront, Boston","276","0 Howard Street, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",1053,723,1532
+"1116","Harborwalk, Waterfront, Boston","277","0 Edwin H Land Boulevard, East Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",508,289,890
+"1116","Harborwalk, Waterfront, Boston","279","200 Seminole Avenue, Lakeview, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1479,1232,1774
+"1116","Harborwalk, Waterfront, Boston","280","0 Linder Terrace, Hunnewell Hill, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",883,644,1210
+"1116","Harborwalk, Waterfront, Boston","281","0 Meadowbrook Road, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1218,891,1663
+"1116","Harborwalk, Waterfront, Boston","285","100 Foster Street, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1269,1016,1584
+"1116","Harborwalk, Waterfront, Boston","286","0 Border Street, East Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",194,85,441
+"1116","Harborwalk, Waterfront, Boston","287","0 Murray Way, South Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",773,502,1189
+"1116","Harborwalk, Waterfront, Boston","288","0 Wakullah Street, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",919,631,1336
+"1116","Harborwalk, Waterfront, Boston","289","500 Baker Street, West Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1892,1506,2376
+"1116","Harborwalk, Waterfront, Boston","290","100 Tremont Street, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",369,189,717
+"1116","Harborwalk, Waterfront, Boston","293","0 Osgood Street, Salem","6/9/2018 - 6/9/2018, Every day, Daily Average",2132,1782,2550
+"1116","Harborwalk, Waterfront, Boston","294","0 Chelsea Street, East Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",188,101,348
+"1116","Harborwalk, Waterfront, Boston","296","0 Cleverly Court, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1610,1201,2158
+"1116","Harborwalk, Waterfront, Boston","297","100 Arlington Street, Bay Village, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",585,331,1031
+"1116","Harborwalk, Waterfront, Boston","298","100 Whitford Street, Roslindale, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1699,1332,2166
+"1116","Harborwalk, Waterfront, Boston","299","0 Round Hill Street, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1163,860,1571
+"1116","Harborwalk, Waterfront, Boston","301","0 John J Brady Drive, Framingham","6/9/2018 - 6/9/2018, Every day, Daily Average",1779,1576,2007
+"1116","Harborwalk, Waterfront, Boston","302","0 Leon Street, Fenway/Kenmore, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",811,499,1317
+"1116","Harborwalk, Waterfront, Boston","306","0 Massachusetts 114, Peabody","6/9/2018 - 6/9/2018, Every day, Daily Average",1757,1475,2092
+"1116","Harborwalk, Waterfront, Boston","309","0 Fernwood Drive, Westford","6/9/2018 - 6/9/2018, Every day, Daily Average",1976,1886,2069
+"1116","Harborwalk, Waterfront, Boston","310","0 Sharon Street, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",1086,813,1449
+"1116","Harborwalk, Waterfront, Boston","311","800 Monument Street, Concord","6/9/2018 - 6/9/2018, Every day, Daily Average",1727,1427,2088
+"1116","Harborwalk, Waterfront, Boston","314","1000 Pleasant Street, East Weymouth, Weymouth","6/9/2018 - 6/9/2018, Every day, Daily Average",1609,1263,2048
+"1116","Harborwalk, Waterfront, Boston","316","Edgeworth, Charlestown, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",411,234,719
+"1116","Harborwalk, Waterfront, Boston","317","100 Bowen Street, D Street / West Broadway, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",610,426,873
+"1116","Harborwalk, Waterfront, Boston","318","0 Stella Road, Roslindale, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1485,1197,1841
+"1116","Harborwalk, Waterfront, Boston","320","0 Pleasant Street, North Brookline, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",913,649,1284
+"1116","Harborwalk, Waterfront, Boston","324","0 Lambert Avenue, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1820,1650,2006
+"1116","Harborwalk, Waterfront, Boston","325","0 Ayer Street, Peabody","6/9/2018 - 6/9/2018, Every day, Daily Average",1863,1493,2324
+"1116","Harborwalk, Waterfront, Boston","328","0 Clinton Street, Everett","6/9/2018 - 6/9/2018, Every day, Daily Average",939,658,1339
+"1116","Harborwalk, Waterfront, Boston","329","0 Tyler Street, Ward Two, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",767,515,1140
+"1116","Harborwalk, Waterfront, Boston","330","100 Vassal Lane, West Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1149,847,1557
+"1116","Harborwalk, Waterfront, Boston","331","0 Seaport Drive, Marina Bay, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1002,708,1417
+"1116","Harborwalk, Waterfront, Boston","333","0 Huntington Avenue, Prudential / St. Botolph, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",719,406,1272
+"1116","Harborwalk, Waterfront, Boston","334","0 Westbourne Street, Roslindale, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1691,1362,2099
+"1116","Harborwalk, Waterfront, Boston","335","100 Everett Avenue, Chelsea","6/9/2018 - 6/9/2018, Every day, Daily Average",565,345,924
+"1116","Harborwalk, Waterfront, Boston","340","0 Bent Avenue, Cochituate, Wayland","6/9/2018 - 6/9/2018, Every day, Daily Average",1405,1141,1728
+"1116","Harborwalk, Waterfront, Boston","341","0 Fountain Avenue, East Somerville, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",514,312,844
+"1116","Harborwalk, Waterfront, Boston","360","0 Landsdowne Street, MIT, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",798,529,1203
+"1116","Harborwalk, Waterfront, Boston","361","0 Hayes Street, Riverside, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1097,784,1533
+"1116","Harborwalk, Waterfront, Boston","362","0 Roberts Road, Mid-Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1033,764,1395
+"1116","Harborwalk, Waterfront, Boston","363","0 Channing Street, West Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",939,687,1283
+"1116","Harborwalk, Waterfront, Boston","364","0 Richard Avenue, North Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",934,687,1268
+"1116","Harborwalk, Waterfront, Boston","365","100 Palmer Street, Arlington","6/9/2018 - 6/9/2018, Every day, Daily Average",841,596,1186
+"1116","Harborwalk, Waterfront, Boston","366","0 Eastern Avenue, Arlington","6/9/2018 - 6/9/2018, Every day, Daily Average",1121,889,1412
+"1116","Harborwalk, Waterfront, Boston","367","0 Pleasant Street, Lexington","6/9/2018 - 6/9/2018, Every day, Daily Average",1239,969,1584
+"1116","Harborwalk, Waterfront, Boston","368","0 Hayden Avenue, Lexington","6/9/2018 - 6/9/2018, Every day, Daily Average",1325,1049,1672
+"1116","Harborwalk, Waterfront, Boston","369","200 Waltham Street, Lexington","6/9/2018 - 6/9/2018, Every day, Daily Average",1417,1142,1757
+"1116","Harborwalk, Waterfront, Boston","370","100 Old Billerica Road, Bedford","6/9/2018 - 6/9/2018, Every day, Daily Average",1396,1114,1748
+"1116","Harborwalk, Waterfront, Boston","374","0 Connector Road, Westborough","6/9/2018 - 6/9/2018, Every day, Daily Average",2487,2008,3080
+"1116","Harborwalk, Waterfront, Boston","375","0 Mason Street, Attleboro","6/9/2018 - 6/9/2018, Every day, Daily Average",3548,2786,4518
+"1116","Harborwalk, Waterfront, Boston","384","0 Davis Road, Bedford","6/9/2018 - 6/9/2018, Every day, Daily Average",1923,1425,2593
+"1116","Harborwalk, Waterfront, Boston","385","0 Sandy Pond Road, Lincoln","6/9/2018 - 6/9/2018, Every day, Daily Average",1591,1261,2006
+"1116","Harborwalk, Waterfront, Boston","386","800 Sudbury Road, Concord","6/9/2018 - 6/9/2018, Every day, Daily Average",1721,1509,1962
+"1116","Harborwalk, Waterfront, Boston","388","0 Sandy Drive, Acton","6/9/2018 - 6/9/2018, Every day, Daily Average",2090,1867,2339
+"1116","Harborwalk, Waterfront, Boston","391","0 Colonial Way, Weston","6/9/2018 - 6/9/2018, Every day, Daily Average",1195,944,1512
+"1116","Harborwalk, Waterfront, Boston","400","400 Slosberg Music Center, South Street, Brandeis, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1494,1163,1917
+"1116","Harborwalk, Waterfront, Boston","401","Cottage Street, North Waltham, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1602,1302,1969
+"1116","Harborwalk, Waterfront, Boston","402","100 Edward Road, Watertown","6/9/2018 - 6/9/2018, Every day, Daily Average",1145,887,1476
+"1116","Harborwalk, Waterfront, Boston","403","0 Rossmere Street, Newtonville, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",981,705,1363
+"1116","Harborwalk, Waterfront, Boston","404","200 Herrick Road, Newton Centre, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1392,1062,1823
+"1116","Harborwalk, Waterfront, Boston","405","Upper Falls Greenway, Newton Highlands, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1249,1114,1399
+"1116","Harborwalk, Waterfront, Boston","406","100 Oak Street, Natick","6/9/2018 - 6/9/2018, Every day, Daily Average",1425,1127,1801
+"1116","Harborwalk, Waterfront, Boston","409","0 Chouteau Avenue, Framingham","6/9/2018 - 6/9/2018, Every day, Daily Average",1530,1257,1861
+"1116","Harborwalk, Waterfront, Boston","413","200 Marion Street, Central-Maverick Square / Paris Street, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",316,147,678
+"1116","Harborwalk, Waterfront, Boston","415","0 Pickwick Road, Marblehead","6/9/2018 - 6/9/2018, Every day, Daily Average",2028,1724,2385
+"1116","Harborwalk, Waterfront, Boston","416","0 Overlook Road, Marblehead","6/9/2018 - 6/9/2018, Every day, Daily Average",2514,2194,2879
+"1116","Harborwalk, Waterfront, Boston","417","Ash Avenue, Salem","6/9/2018 - 6/9/2018, Every day, Daily Average",1903,1636,2213
+"1116","Harborwalk, Waterfront, Boston","418","0 Cauldron Court, Salem","6/9/2018 - 6/9/2018, Every day, Daily Average",2093,1759,2490
+"1116","Harborwalk, Waterfront, Boston","419","Poplar Avenue, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",2043,1736,2404
+"1116","Harborwalk, Waterfront, Boston","420","0 Warren Avenue, Saugus","6/9/2018 - 6/9/2018, Every day, Daily Average",1043,809,1344
+"1116","Harborwalk, Waterfront, Boston","424","200 Warren Street, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",1326,1032,1703
+"1116","Harborwalk, Waterfront, Boston","425","200 Bolton Street, D Street / West Broadway, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",619,441,868
+"1116","Harborwalk, Waterfront, Boston","426","0 Ledgewood Road, Dedham","6/9/2018 - 6/9/2018, Every day, Daily Average",1671,1311,2129
+"1116","Harborwalk, Waterfront, Boston","427","400 Charles River Street, Needham","6/9/2018 - 6/9/2018, Every day, Daily Average",1989,1678,2356
+"1116","Harborwalk, Waterfront, Boston","428","0 Dukes Road, Wellesley Hills, Wellesley","6/9/2018 - 6/9/2018, Every day, Daily Average",1714,1392,2110
+"1116","Harborwalk, Waterfront, Boston","430","300 Central Street, Saugus","6/9/2018 - 6/9/2018, Every day, Daily Average",918,680,1239
+"1116","Harborwalk, Waterfront, Boston","431","0 East Huckleberry Road, Lynnfield","6/9/2018 - 6/9/2018, Every day, Daily Average",1214,986,1493
+"1116","Harborwalk, Waterfront, Boston","432","0 Irving Street, Peabody","6/9/2018 - 6/9/2018, Every day, Daily Average",1412,1179,1690
+"1116","Harborwalk, Waterfront, Boston","433","0 Sherwood Avenue, Danvers","6/9/2018 - 6/9/2018, Every day, Daily Average",1690,1413,2020
+"1116","Harborwalk, Waterfront, Boston","434","200 Newburyport Turnpike, Topsfield","6/9/2018 - 6/9/2018, Every day, Daily Average",1878,1558,2262
+"1116","Harborwalk, Waterfront, Boston","435","300 Harrison Avenue, South End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",369,182,746
+"1116","Harborwalk, Waterfront, Boston","440","0 Ridge Road, Foxborough, Foxborough","6/9/2018 - 6/9/2018, Every day, Daily Average",2441,1989,2994
+"1116","Harborwalk, Waterfront, Boston","441","0 Currier Farm Road, Westwood","6/9/2018 - 6/9/2018, Every day, Daily Average",1789,1391,2299
+"1116","Harborwalk, Waterfront, Boston","444","0 Cedarcrest Road, Canton","6/9/2018 - 6/9/2018, Every day, Daily Average",1860,1416,2441
+"1116","Harborwalk, Waterfront, Boston","445","1400 Canton Avenue, Milton","6/9/2018 - 6/9/2018, Every day, Daily Average",1464,1123,1908
+"1116","Harborwalk, Waterfront, Boston","446","0 Colby Road, North Quincy, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1042,727,1493
+"1116","Harborwalk, Waterfront, Boston","447","0 Murphy Memorial Drive, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1319,991,1753
+"1116","Harborwalk, Waterfront, Boston","448","200 Ricciuti Drive, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1003,706,1423
+"1116","Harborwalk, Waterfront, Boston","456","1600 Turnpike Street, North Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",1776,1438,2192
+"1116","Harborwalk, Waterfront, Boston","457","0 Sagamore Drive, Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",1517,1287,1787
+"1116","Harborwalk, Waterfront, Boston","459","0 Farm Road, Braintree","6/9/2018 - 6/9/2018, Every day, Daily Average",1116,862,1443
+"1116","Harborwalk, Waterfront, Boston","460","0 Connell Street, Braintree","6/9/2018 - 6/9/2018, Every day, Daily Average",1366,1081,1725
+"1116","Harborwalk, Waterfront, Boston","461","200 King Hill Road, Braintree","6/9/2018 - 6/9/2018, Every day, Daily Average",1150,890,1485
+"1116","Harborwalk, Waterfront, Boston","462","Fall River Expressway, Randolph","6/9/2018 - 6/9/2018, Every day, Daily Average",1408,1043,1900
+"1116","Harborwalk, Waterfront, Boston","463","0 Alfred Terrace, Randolph","6/9/2018 - 6/9/2018, Every day, Daily Average",1914,1549,2364
+"1116","Harborwalk, Waterfront, Boston","464","100 Swan Avenue, South Weymouth, Weymouth","6/9/2018 - 6/9/2018, Every day, Daily Average",1662,1368,2017
+"1116","Harborwalk, Waterfront, Boston","470","0 Bayberry Lane, Salisbury","6/9/2018 - 6/9/2018, Every day, Daily Average",2762,2437,3129
+"1116","Harborwalk, Waterfront, Boston","482","0 Hidden Valley Road, Marshfield","6/9/2018 - 6/9/2018, Every day, Daily Average",2073,1722,2494
+"1116","Harborwalk, Waterfront, Boston","487","500 Main Street, Medford Street / The Neck, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",296,151,579
+"1116","Harborwalk, Waterfront, Boston","491","0 Haverford Street, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1153,886,1500
+"1116","Harborwalk, Waterfront, Boston","492","0 Princeton Street, East Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",438,259,740
+"1116","Harborwalk, Waterfront, Boston","493","Allston Street, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1292,1007,1657
+"1116","Harborwalk, Waterfront, Boston","494","0 Glenville Avenue, Allston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1190,899,1574
+"1116","Harborwalk, Waterfront, Boston","495","300 Brookline Avenue, Medical Center Area, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",881,612,1268
+"1116","Harborwalk, Waterfront, Boston","496","0 Newbury Street, Back Bay East, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",625,360,1083
+"1116","Harborwalk, Waterfront, Boston","497","0 Blossom Street, West End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",291,135,625
+"1116","Harborwalk, Waterfront, Boston","498","0 Causeway Street, West End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",185,70,486
+"1116","Harborwalk, Waterfront, Boston","499","0 Elm Street, Charlestown, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",520,376,718
+"1116","Harborwalk, Waterfront, Boston","500","Tobin Memorial Bridge, Charlestown, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",443,262,747
+"1116","Harborwalk, Waterfront, Boston","501","0 P Street, South Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",710,519,970
+"1116","Harborwalk, Waterfront, Boston","502","600 East Fifth Street, South Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",688,493,959
+"1116","Harborwalk, Waterfront, Boston","503","0 Eustis Street, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",652,423,1002
+"1116","Harborwalk, Waterfront, Boston","504","0 Francis Street, Fenway/Kenmore, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",994,707,1396
+"1116","Harborwalk, Waterfront, Boston","505","100 Harold Street, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1119,801,1561
+"1116","Harborwalk, Waterfront, Boston","506","0 Schuyler Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1204,884,1638
+"1116","Harborwalk, Waterfront, Boston","507","0 Burrell Street, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",862,593,1251
+"1116","Harborwalk, Waterfront, Boston","508","0 Stoughton Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",757,496,1153
+"1116","Harborwalk, Waterfront, Boston","509","0 Homes Avenue, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1008,694,1462
+"1116","Harborwalk, Waterfront, Boston","510","0 Dakota Street, Dorchester, Dorchester Center, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1071,694,1650
+"1116","Harborwalk, Waterfront, Boston","511","0 Fairmount Street, Dorchester, Dorchester Center, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1043,717,1515
+"1116","Harborwalk, Waterfront, Boston","512","1000 Adams Street, Dorchester, Dorchester Center, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",984,685,1412
+"1116","Harborwalk, Waterfront, Boston","517","0 D Street, Highlands, Lowell","6/9/2018 - 6/9/2018, Every day, Daily Average",2176,1802,2626
+"1116","Harborwalk, Waterfront, Boston","521","0 Hosmer Street, Mattapan, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1537,1321,1787
+"1116","Harborwalk, Waterfront, Boston","522","100 Durnell Avenue, Roslindale, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1745,1397,2179
+"1116","Harborwalk, Waterfront, Boston","523","0 Woodland Road, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1296,991,1693
+"1116","Harborwalk, Waterfront, Boston","524","100 Laurie Avenue, Upper Washington / Spring Street, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",2226,1752,2827
+"1116","Harborwalk, Waterfront, Boston","525","0 Parkson Street, Hyde Park, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",2044,1688,2474
+"1116","Harborwalk, Waterfront, Boston","526","0 Orange Street, Chelsea","6/9/2018 - 6/9/2018, Every day, Daily Average",726,436,1206
+"1116","Harborwalk, Waterfront, Boston","527","200 Beach Street, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",740,516,1059
+"1116","Harborwalk, Waterfront, Boston","528","0 Short Street, Winthrop","6/9/2018 - 6/9/2018, Every day, Daily Average",819,574,1168
+"1116","Harborwalk, Waterfront, Boston","529","0 Circuit Drive, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1254,950,1655
+"1116","Harborwalk, Waterfront, Boston","530","0 Dry Dock Avenue, Seaport District, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",591,407,857
+"1116","Harborwalk, Waterfront, Boston","532","1100 Livingston Street, North Tewksbury, Tewksbury","6/9/2018 - 6/9/2018, Every day, Daily Average",1723,1431,2073
+"1116","Harborwalk, Waterfront, Boston","536","0 Marriott Place, Billerica","6/9/2018 - 6/9/2018, Every day, Daily Average",1532,1275,1840
+"1116","Harborwalk, Waterfront, Boston","537","0 Talbot Avenue, North Billerica, Billerica","6/9/2018 - 6/9/2018, Every day, Daily Average",1669,1410,1974
+"1116","Harborwalk, Waterfront, Boston","538","0 Pinewood Road, Chelmsford","6/9/2018 - 6/9/2018, Every day, Daily Average",1915,1822,2012
+"1116","Harborwalk, Waterfront, Boston","540","Charles River Esplanade, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",435,214,881
+"1116","Harborwalk, Waterfront, Boston","544","0 Fid Kennedy Avenue, Seaport District, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",218,79,599
+"1116","Harborwalk, Waterfront, Boston","545","0 Garland Road, Chelmsford","6/9/2018 - 6/9/2018, Every day, Daily Average",1855,1754,1961
+"1116","Harborwalk, Waterfront, Boston","549","0 Boston Street, Prospect Hill, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",623,421,921
+"1116","Harborwalk, Waterfront, Boston","553","0 Alcorn Crossing, Westford","6/9/2018 - 6/9/2018, Every day, Daily Average",2094,1989,2203
+"1116","Harborwalk, Waterfront, Boston","554","0 Everett Circle, Hopkinton","6/9/2018 - 6/9/2018, Every day, Daily Average",2495,1933,3218
+"1116","Harborwalk, Waterfront, Boston","560","0 Hidden Pond Lane, North Reading","6/9/2018 - 6/9/2018, Every day, Daily Average",1466,1222,1757
+"1116","Harborwalk, Waterfront, Boston","561","100 Wildwood Street, Wilmington","6/9/2018 - 6/9/2018, Every day, Daily Average",1002,806,1244
+"1116","Harborwalk, Waterfront, Boston","581","0 Carter Road, Woburn","6/9/2018 - 6/9/2018, Every day, Daily Average",731,555,962
+"1116","Harborwalk, Waterfront, Boston","583","0 Walnut Court, Woburn","6/9/2018 - 6/9/2018, Every day, Daily Average",918,756,1114
+"1116","Harborwalk, Waterfront, Boston","584","0 Mill Road, Melrose","6/9/2018 - 6/9/2018, Every day, Daily Average",1090,881,1347
+"1116","Harborwalk, Waterfront, Boston","585","0 High Street, Stoneham","6/9/2018 - 6/9/2018, Every day, Daily Average",1056,788,1413
+"1116","Harborwalk, Waterfront, Boston","586","0 Bates Road, Winchester","6/9/2018 - 6/9/2018, Every day, Daily Average",675,502,907
+"1116","Harborwalk, Waterfront, Boston","587","100 Rivers Edge Drive, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",541,372,785
+"1116","Harborwalk, Waterfront, Boston","588","0 Lewis Street, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",490,327,732
+"1116","Harborwalk, Waterfront, Boston","589","0 Clayton Street, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",1040,745,1450
+"1116","Harborwalk, Waterfront, Boston","590","100 Kennedy Drive, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",891,628,1262
+"1116","Harborwalk, Waterfront, Boston","605","800 Washington Street, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1473,1218,1780
+"1116","Harborwalk, Waterfront, Boston","613","0 Canal Street, Salem","6/9/2018 - 6/9/2018, Every day, Daily Average",2257,1928,2641
+"1116","Harborwalk, Waterfront, Boston","614","0 Winter Island Road, Salem","6/9/2018 - 6/9/2018, Every day, Daily Average",2353,2038,2716
+"1116","Harborwalk, Waterfront, Boston","615","0 Bowler Street, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",2116,1809,2474
+"1116","Harborwalk, Waterfront, Boston","617","700 Lynnway, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1299,1045,1614
+"1116","Harborwalk, Waterfront, Boston","626","0 McDewell Avenue, Danvers","6/9/2018 - 6/9/2018, Every day, Daily Average",1556,1312,1844
+"1116","Harborwalk, Waterfront, Boston","629","0 Safford Street, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1382,1124,1697
+"1116","Harborwalk, Waterfront, Boston","630","0 Johnson Street, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1872,1517,2309
+"1116","Harborwalk, Waterfront, Boston","631","0 Central Street, Saugus","6/9/2018 - 6/9/2018, Every day, Daily Average",1096,826,1453
+"1116","Harborwalk, Waterfront, Boston","632","0 Lindsay Terrace, Saugus","6/9/2018 - 6/9/2018, Every day, Daily Average",1013,772,1328
+"1116","Harborwalk, Waterfront, Boston","633","0 Russet Lane, Lynnfield","6/9/2018 - 6/9/2018, Every day, Daily Average",1116,866,1437
+"1116","Harborwalk, Waterfront, Boston","634","Independence Greenway, Peabody","6/9/2018 - 6/9/2018, Every day, Daily Average",1375,1134,1667
+"1116","Harborwalk, Waterfront, Boston","636","0 Spring Road, Nahant","6/9/2018 - 6/9/2018, Every day, Daily Average",1483,1226,1792
+"1116","Harborwalk, Waterfront, Boston","637","100 Shelton Road, Swampscott","6/9/2018 - 6/9/2018, Every day, Daily Average",1786,1506,2117
+"1116","Harborwalk, Waterfront, Boston","638","0 Leedsville Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",950,659,1367
+"1116","Harborwalk, Waterfront, Boston","639","0 Sylvan Street, Danvers","6/9/2018 - 6/9/2018, Every day, Daily Average",1714,1410,2083
+"1116","Harborwalk, Waterfront, Boston","641","0 Zaloga Way, Middleton","6/9/2018 - 6/9/2018, Every day, Daily Average",1754,1418,2168
+"1116","Harborwalk, Waterfront, Boston","644","0 Dunham Road, Beverly","6/9/2018 - 6/9/2018, Every day, Daily Average",1792,1512,2122
+"1116","Harborwalk, Waterfront, Boston","655","0 Eastside Street, Lawrence","6/9/2018 - 6/9/2018, Every day, Daily Average",1804,1564,2080
+"1116","Harborwalk, Waterfront, Boston","657","Chickering Road, Lawrence","6/9/2018 - 6/9/2018, Every day, Daily Average",1713,1458,2012
+"1116","Harborwalk, Waterfront, Boston","659","Loop Connector, Methuen","6/9/2018 - 6/9/2018, Every day, Daily Average",1732,1489,2014
+"1116","Harborwalk, Waterfront, Boston","665","0 Welgate Circle, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1155,826,1613
+"1116","Harborwalk, Waterfront, Boston","675","0 Dufton Court, North Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",1746,1489,2047
+"1116","Harborwalk, Waterfront, Boston","685","200 Landry Avenue, North Attleborough","6/9/2018 - 6/9/2018, Every day, Daily Average",3043,2496,3708
+"1116","Harborwalk, Waterfront, Boston","692","600 Webster Street, Needham Heights, Needham","6/9/2018 - 6/9/2018, Every day, Daily Average",1770,1414,2215
+"1116","Harborwalk, Waterfront, Boston","695","0 West Hollow, Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",1275,1021,1591
+"1116","Harborwalk, Waterfront, Boston","696","0 Lansbury Lane, Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",1429,1208,1689
+"1116","Harborwalk, Waterfront, Boston","697","0 Crestwood Drive, Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",1314,1098,1572
+"1116","Harborwalk, Waterfront, Boston","699","0 Kennedy Drive, Dedham","6/9/2018 - 6/9/2018, Every day, Daily Average",1828,1422,2349
+"1116","Harborwalk, Waterfront, Boston","702","100 Stewart Street, West Newbury","6/9/2018 - 6/9/2018, Every day, Daily Average",2425,2107,2790
+"1116","Harborwalk, Waterfront, Boston","704","0 Congress Street, Amesbury","6/9/2018 - 6/9/2018, Every day, Daily Average",2694,2387,3039
+"1116","Harborwalk, Waterfront, Boston","707","100 Bellevue Road, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",975,706,1346
+"1116","Harborwalk, Waterfront, Boston","708","300 Wethersfield Street, Rowley","6/9/2018 - 6/9/2018, Every day, Daily Average",2146,1815,2536
+"1116","Harborwalk, Waterfront, Boston","709","0 Newbury Avenue, North Quincy, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",986,674,1440
+"1116","Harborwalk, Waterfront, Boston","710","0 Beal Street, Hingham","6/9/2018 - 6/9/2018, Every day, Daily Average",2117,1763,2541
+"1116","Harborwalk, Waterfront, Boston","711","0 Rock View Way, Rockland","6/9/2018 - 6/9/2018, Every day, Daily Average",1627,1273,2078
+"1116","Harborwalk, Waterfront, Boston","713","0 Foster Street, Coolidge Corner South Side, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",1001,710,1409
+"1116","Harborwalk, Waterfront, Boston","714","0 Bates Way, Hanover","6/9/2018 - 6/9/2018, Every day, Daily Average",1705,1431,2031
+"1116","Harborwalk, Waterfront, Boston","715","700 Grove Street, Norwell","6/9/2018 - 6/9/2018, Every day, Daily Average",1585,1311,1915
+"1116","Harborwalk, Waterfront, Boston","718","0 Otis Street, East Somerville, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",605,383,953
+"1116","Harborwalk, Waterfront, Boston","720","Union Bridge Road, Duxbury","6/9/2018 - 6/9/2018, Every day, Daily Average",2310,1965,2715
+"1116","Harborwalk, Waterfront, Boston","721","200 West Street, Duxbury","6/9/2018 - 6/9/2018, Every day, Daily Average",2234,1845,2703
+"1116","Harborwalk, Waterfront, Boston","722","0 Pilgrim Road, North Pembroke, Pembroke","6/9/2018 - 6/9/2018, Every day, Daily Average",2056,1705,2478
+"1116","Harborwalk, Waterfront, Boston","726","100 Candy Lane, Brockton","6/9/2018 - 6/9/2018, Every day, Daily Average",2056,1508,2801
+"1116","Harborwalk, Waterfront, Boston","739","0 Tinson Road, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1122,828,1520
+"1116","Harborwalk, Waterfront, Boston","740","0 Brierwood Road, Braintree","6/9/2018 - 6/9/2018, Every day, Daily Average",1118,818,1526
+"1116","Harborwalk, Waterfront, Boston","741","300 North Street, North Weymouth, Weymouth","6/9/2018 - 6/9/2018, Every day, Daily Average",1889,1544,2309
+"1116","Harborwalk, Waterfront, Boston","747","0 Crestwood Drive, Framingham","6/9/2018 - 6/9/2018, Every day, Daily Average",1662,1353,2041
+"1116","Harborwalk, Waterfront, Boston","748","0 Michael Road, Framingham","6/9/2018 - 6/9/2018, Every day, Daily Average",1622,1297,2027
+"1116","Harborwalk, Waterfront, Boston","749","0 Fox Hill Road, Ashland","6/9/2018 - 6/9/2018, Every day, Daily Average",2195,1664,2895
+"1116","Harborwalk, Waterfront, Boston","756","0 Taunton Street, Ward Two, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",833,554,1251
+"1116","Harborwalk, Waterfront, Boston","757","100 Portland Street, The Port, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",634,374,1072
+"1116","Harborwalk, Waterfront, Boston","758","0 Antrim Street, Mid-Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",953,669,1355
+"1116","Harborwalk, Waterfront, Boston","759","0 Vail Court, Mid-Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",951,663,1362
+"1116","Harborwalk, Waterfront, Boston","760","Fairchild Building, MIT, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",648,404,1037
+"1116","Harborwalk, Waterfront, Boston","761","0 Oxford Street, Agassiz, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1088,783,1510
+"1116","Harborwalk, Waterfront, Boston","762","0 Dana Place, Mid-Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1022,763,1368
+"1116","Harborwalk, Waterfront, Boston","763","100 Brattle Street, West Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",999,723,1380
+"1116","Harborwalk, Waterfront, Boston","764","600 Huron Avenue, Strawberry Hill, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1104,833,1462
+"1116","Harborwalk, Waterfront, Boston","765","400 Westfield Street, Dedham","6/9/2018 - 6/9/2018, Every day, Daily Average",2078,1510,2859
+"1116","Harborwalk, Waterfront, Boston","766","0 Gatewood Drive, Needham","6/9/2018 - 6/9/2018, Every day, Daily Average",1984,1589,2476
+"1116","Harborwalk, Waterfront, Boston","767","100 Webster Street, Needham Heights, Needham","6/9/2018 - 6/9/2018, Every day, Daily Average",1453,1183,1784
+"1116","Harborwalk, Waterfront, Boston","768","0 Pickerel Terrace, Wellesley","6/9/2018 - 6/9/2018, Every day, Daily Average",1789,1468,2178
+"1116","Harborwalk, Waterfront, Boston","769","0 Tappan Road, Wellesley","6/9/2018 - 6/9/2018, Every day, Daily Average",1848,1472,2319
+"1116","Harborwalk, Waterfront, Boston","772","0 Wagon Trail Road, Westford","6/9/2018 - 6/9/2018, Every day, Daily Average",2112,1994,2236
+"1116","Harborwalk, Waterfront, Boston","773","0 Sherman Street, Neighborhood Nine, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1242,899,1715
+"1116","Harborwalk, Waterfront, Boston","774","0 Jackson Street, North Cambridge, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1030,778,1362
+"1116","Harborwalk, Waterfront, Boston","775","0 Milton Street, Arlington","6/9/2018 - 6/9/2018, Every day, Daily Average",998,774,1286
+"1116","Harborwalk, Waterfront, Boston","776","0 Gray Street, Arlington","6/9/2018 - 6/9/2018, Every day, Daily Average",1042,816,1328
+"1116","Harborwalk, Waterfront, Boston","777","100 Claflin Street, Belmont","6/9/2018 - 6/9/2018, Every day, Daily Average",1084,901,1303
+"1116","Harborwalk, Waterfront, Boston","778","0 Foster Road, Belmont","6/9/2018 - 6/9/2018, Every day, Daily Average",1202,901,1603
+"1116","Harborwalk, Waterfront, Boston","779","0 Woodfall Road, Belmont","6/9/2018 - 6/9/2018, Every day, Daily Average",1189,938,1507
+"1116","Harborwalk, Waterfront, Boston","782","0 Mill Street, Foxborough","6/9/2018 - 6/9/2018, Every day, Daily Average",2576,2111,3143
+"1116","Harborwalk, Waterfront, Boston","783","200 Cocasset Street, Foxborough","6/9/2018 - 6/9/2018, Every day, Daily Average",2432,2008,2945
+"1116","Harborwalk, Waterfront, Boston","784","0 Sandy Valley Drive, Walpole","6/9/2018 - 6/9/2018, Every day, Daily Average",2292,1923,2731
+"1116","Harborwalk, Waterfront, Boston","786","0 Richdale Avenue, Everett","6/9/2018 - 6/9/2018, Every day, Daily Average",1050,795,1385
+"1116","Harborwalk, Waterfront, Boston","787","700 University Avenue, Norwood","6/9/2018 - 6/9/2018, Every day, Daily Average",1873,1460,2402
+"1116","Harborwalk, Waterfront, Boston","788","300 Washington Street, Norwood","6/9/2018 - 6/9/2018, Every day, Daily Average",2015,1577,2573
+"1116","Harborwalk, Waterfront, Boston","789","200 Carnegie Row, Norwood","6/9/2018 - 6/9/2018, Every day, Daily Average",1954,1571,2430
+"1116","Harborwalk, Waterfront, Boston","790","100 Walnut Street, Canton","6/9/2018 - 6/9/2018, Every day, Daily Average",2445,1800,3320
+"1116","Harborwalk, Waterfront, Boston","791","500 Turnpike Street, Canton","6/9/2018 - 6/9/2018, Every day, Daily Average",1735,1166,2580
+"1116","Harborwalk, Waterfront, Boston","792","0 Woodside Drive, Milton","6/9/2018 - 6/9/2018, Every day, Daily Average",1300,906,1863
+"1116","Harborwalk, Waterfront, Boston","800","0 Harvard Road, Littleton","6/9/2018 - 6/9/2018, Every day, Daily Average",2403,2193,2632
+"1116","Harborwalk, Waterfront, Boston","803","0 Deer Run, Wayland","6/9/2018 - 6/9/2018, Every day, Daily Average",1880,1628,2170
+"1116","Harborwalk, Waterfront, Boston","804","Glen Road, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1780,1399,2263
+"1116","Harborwalk, Waterfront, Boston","805","0 Howard Street, Banks Square, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1611,1245,2083
+"1116","Harborwalk, Waterfront, Boston","806","0 Boland Street, South Side, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1398,1056,1849
+"1116","Harborwalk, Waterfront, Boston","807","100 Grove Street, Bleachery, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1453,1124,1877
+"1116","Harborwalk, Waterfront, Boston","808","0 Candace Avenue, Warrendale, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1484,1205,1826
+"1116","Harborwalk, Waterfront, Boston","809","200 Bellevue Road, Watertown","6/9/2018 - 6/9/2018, Every day, Daily Average",1247,979,1587
+"1116","Harborwalk, Waterfront, Boston","810","100 North Beacon Street, Watertown","6/9/2018 - 6/9/2018, Every day, Daily Average",1106,817,1496
+"1116","Harborwalk, Waterfront, Boston","811","300 Watertown Street, Nonantum, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1183,823,1699
+"1116","Harborwalk, Waterfront, Boston","812","0 Burr Road, Newton Centre, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1106,916,1334
+"1116","Harborwalk, Waterfront, Boston","813","0 Spear Street, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1321,996,1751
+"1116","Harborwalk, Waterfront, Boston","814","0 Hawthorne Street, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1508,1188,1913
+"1116","Harborwalk, Waterfront, Boston","815","0 Upton Drive, Wilmington","6/9/2018 - 6/9/2018, Every day, Daily Average",1136,936,1377
+"1116","Harborwalk, Waterfront, Boston","816","0 Keans Road, Burlington","6/9/2018 - 6/9/2018, Every day, Daily Average",1059,851,1316
+"1116","Harborwalk, Waterfront, Boston","817","0 Burlington Mall Road, Burlington","6/9/2018 - 6/9/2018, Every day, Daily Average",1202,971,1487
+"1116","Harborwalk, Waterfront, Boston","818","100 New Boston Street, Woburn","6/9/2018 - 6/9/2018, Every day, Daily Average",915,713,1172
+"1116","Harborwalk, Waterfront, Boston","819","0 Maple Ridge Road, Reading","6/9/2018 - 6/9/2018, Every day, Daily Average",832,640,1080
+"1116","Harborwalk, Waterfront, Boston","820","0 Pasture Road, Reading","6/9/2018 - 6/9/2018, Every day, Daily Average",1208,931,1567
+"1116","Harborwalk, Waterfront, Boston","821","0 Byron Street, Wakefield","6/9/2018 - 6/9/2018, Every day, Daily Average",944,735,1211
+"1116","Harborwalk, Waterfront, Boston","822","0 Eunice Circle, Wakefield","6/9/2018 - 6/9/2018, Every day, Daily Average",1152,904,1467
+"1116","Harborwalk, Waterfront, Boston","823","0 Boston Rock Road, Melrose","6/9/2018 - 6/9/2018, Every day, Daily Average",940,771,1144
+"1116","Harborwalk, Waterfront, Boston","824","200 Nahanton Street, Oak Hill, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1704,1351,2148
+"1116","Harborwalk, Waterfront, Boston","825","1400 Commonwealth Avenue, West Newton, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1379,893,2129
+"1116","Harborwalk, Waterfront, Boston","826","0 Abbott Avenue, Everett","6/9/2018 - 6/9/2018, Every day, Daily Average",958,690,1329
+"1116","Harborwalk, Waterfront, Boston","827","0 Randlett Park, West Newton, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1026,757,1390
+"1116","Harborwalk, Waterfront, Boston","828","100 Bacon Street, Natick","6/9/2018 - 6/9/2018, Every day, Daily Average",1918,1632,2253
+"1116","Harborwalk, Waterfront, Boston","830","C Street, Natick","6/9/2018 - 6/9/2018, Every day, Daily Average",1624,1257,2097
+"1116","Harborwalk, Waterfront, Boston","831","0 Woodland Road, Stoneham","6/9/2018 - 6/9/2018, Every day, Daily Average",610,439,847
+"1116","Harborwalk, Waterfront, Boston","832","0 Rodgers Road, Stoneham","6/9/2018 - 6/9/2018, Every day, Daily Average",779,595,1018
+"1116","Harborwalk, Waterfront, Boston","833","300 Highland Avenue, Winchester","6/9/2018 - 6/9/2018, Every day, Daily Average",798,613,1038
+"1116","Harborwalk, Waterfront, Boston","834","0 Orchard Street, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",667,471,944
+"1116","Harborwalk, Waterfront, Boston","835","0 Marston Street, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",564,380,836
+"1116","Harborwalk, Waterfront, Boston","836","100 Central Avenue, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",473,312,715
+"1116","Harborwalk, Waterfront, Boston","837","0 Mc Cormack Avenue, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",626,446,877
+"1116","Harborwalk, Waterfront, Boston","838","100 West Street, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",803,562,1145
+"1116","Harborwalk, Waterfront, Boston","839","0 Webber Street, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",1126,890,1423
+"1116","Harborwalk, Waterfront, Boston","840","0 Hamilton Road, West Somerville, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",710,523,962
+"1116","Harborwalk, Waterfront, Boston","843","0 Upham Street, Highlands, Lowell","6/9/2018 - 6/9/2018, Every day, Daily Average",1819,1583,2089
+"1116","Harborwalk, Waterfront, Boston","846","0 Beacham Street, Everett","6/9/2018 - 6/9/2018, Every day, Daily Average",759,518,1110
+"1116","Harborwalk, Waterfront, Boston","847","100 Sycamore Street, Winter Hill, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",658,461,938
+"1116","Harborwalk, Waterfront, Boston","848","0 Wallace Street, Tufts, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",925,708,1207
+"1116","Harborwalk, Waterfront, Boston","851","100 Groton Road, North Chelmsford, Chelmsford","6/9/2018 - 6/9/2018, Every day, Daily Average",1900,1817,1986
+"1116","Harborwalk, Waterfront, Boston","856","400 Commonwealth Avenue, Back Bay, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",611,376,992
+"1116","Harborwalk, Waterfront, Boston","857","100 Norway Street, Fenway/Kenmore, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",846,510,1402
+"1116","Harborwalk, Waterfront, Boston","861","0 South Waverly Street, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",800,555,1153
+"1116","Harborwalk, Waterfront, Boston","862","0 Atkins Street, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",837,591,1183
+"1116","Harborwalk, Waterfront, Boston","863","0 Strathmore Road, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1386,1068,1797
+"1116","Harborwalk, Waterfront, Boston","864","0 Dustin Street, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1135,874,1473
+"1116","Harborwalk, Waterfront, Boston","865","0 Bellvista Road, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1233,939,1617
+"1116","Harborwalk, Waterfront, Boston","866","0 Braintree Street, Allston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",830,564,1220
+"1116","Harborwalk, Waterfront, Boston","867","0 Barry Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1001,670,1495
+"1116","Harborwalk, Waterfront, Boston","868","100 Whitfield Street, Dorchester, Dorchester Center, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1252,927,1690
+"1116","Harborwalk, Waterfront, Boston","869","0 Wales Street, Roxbury, Dorchester Center, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1222,974,1532
+"1116","Harborwalk, Waterfront, Boston","870","0 Willowwood Street, Mattapan, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1400,1100,1780
+"1116","Harborwalk, Waterfront, Boston","871","0 Chipman Street, Dorchester, Dorchester Center, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1158,832,1611
+"1116","Harborwalk, Waterfront, Boston","872","Southeast Expressway, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",778,516,1172
+"1116","Harborwalk, Waterfront, Boston","873","100 Manchester Street, Mattapan, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1193,822,1730
+"1116","Harborwalk, Waterfront, Boston","874","0 Outlook Road, Wellington Hill, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1673,1421,1969
+"1116","Harborwalk, Waterfront, Boston","875","200 Hyde Park Avenue, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1541,1132,2096
+"1116","Harborwalk, Waterfront, Boston","876","100 Neponset Avenue, Roslindale, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1433,1110,1848
+"1116","Harborwalk, Waterfront, Boston","877","0 Eliot Street, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1228,935,1612
+"1116","Harborwalk, Waterfront, Boston","878","200 Public Alley 432, Back Bay, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",702,418,1177
+"1116","Harborwalk, Waterfront, Boston","879","0 River Street Place, Beacon Hill, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",401,212,756
+"1116","Harborwalk, Waterfront, Boston","880","100 Charles Street, Beacon Hill, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",371,205,670
+"1116","Harborwalk, Waterfront, Boston","881","0 Stillman Street, North End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",166,57,475
+"1116","Harborwalk, Waterfront, Boston","882","200 Hanover Street, North End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",113,36,349
+"1116","Harborwalk, Waterfront, Boston","883","200 Seaport Boulevard, Seaport District, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",433,238,787
+"1116","Harborwalk, Waterfront, Boston","884","South Boston Bypass, South Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",400,220,725
+"1116","Harborwalk, Waterfront, Boston","885","100 Summer Street, Downtown, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",222,100,490
+"1116","Harborwalk, Waterfront, Boston","886","0 Malden Street, South End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",410,214,781
+"1116","Harborwalk, Waterfront, Boston","887","0 Mount Pleasant Terrace, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",787,506,1223
+"1116","Harborwalk, Waterfront, Boston","888","133100 Vernon Street, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",834,565,1230
+"1116","Harborwalk, Waterfront, Boston","889","100 Fisher Avenue, Mission Hill, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1110,820,1501
+"1116","Harborwalk, Waterfront, Boston","890","0 Jamaica Street, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1448,1073,1953
+"1116","Harborwalk, Waterfront, Boston","891","0 Stedman Street, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1400,1041,1881
+"1116","Harborwalk, Waterfront, Boston","892","200 Chestnut Avenue, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1205,911,1593
+"1116","Harborwalk, Waterfront, Boston","893","0 Hastings Street, West Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1625,1291,2044
+"1116","Harborwalk, Waterfront, Boston","894","0 Wren Street, West Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1663,1351,2045
+"1116","Harborwalk, Waterfront, Boston","896","300 Columbia Street, Wellington-Harrington, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",895,626,1278
+"1116","Harborwalk, Waterfront, Boston","898","0 Webster Street, Hyde Park, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1772,1318,2382
+"1116","Harborwalk, Waterfront, Boston","899","0 Watts Street, Chelsea","6/9/2018 - 6/9/2018, Every day, Daily Average",769,498,1185
+"1116","Harborwalk, Waterfront, Boston","900","0 Boatswains Way, Chelsea","6/9/2018 - 6/9/2018, Every day, Daily Average",484,282,830
+"1116","Harborwalk, Waterfront, Boston","901","0 Willoughby Street, Chelsea","6/9/2018 - 6/9/2018, Every day, Daily Average",837,566,1237
+"1116","Harborwalk, Waterfront, Boston","902","0 Centre Street, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",939,665,1325
+"1116","Harborwalk, Waterfront, Boston","903","0 Gaston Street, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1128,765,1662
+"1116","Harborwalk, Waterfront, Boston","904","0 Wolcott Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1131,839,1523
+"1116","Harborwalk, Waterfront, Boston","905","100 Geneva Avenue, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1093,750,1591
+"1116","Harborwalk, Waterfront, Boston","906","0 Romsey Circle, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",562,337,934
+"1116","Harborwalk, Waterfront, Boston","907","0 Gene Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",785,507,1213
+"1116","Harborwalk, Waterfront, Boston","908","0 Monadnock Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",946,604,1479
+"1116","Harborwalk, Waterfront, Boston","909","500 Squire Road, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",785,545,1129
+"1116","Harborwalk, Waterfront, Boston","911","200 Garfield Avenue, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",726,493,1067
+"1116","Harborwalk, Waterfront, Boston","912","100 Crest Avenue, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",953,670,1353
+"1116","Harborwalk, Waterfront, Boston","913","0 Petrel Street, Winthrop","6/9/2018 - 6/9/2018, Every day, Daily Average",1076,799,1447
+"1116","Harborwalk, Waterfront, Boston","915","Head Island Causeway, South Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",611,391,952
+"1116","Harborwalk, Waterfront, Boston","916","0 Lee Burbank Highway, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",609,408,907
+"1116","Harborwalk, Waterfront, Boston","917","Emerald Necklace, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",776,479,1256
+"1116","Harborwalk, Waterfront, Boston","921","0 Hamlet Street, Lawrence","6/9/2018 - 6/9/2018, Every day, Daily Average",1713,1621,1809
+"1116","Harborwalk, Waterfront, Boston","927","0 Mill River Drive, Weymouth","6/9/2018 - 6/9/2018, Every day, Daily Average",1310,1030,1665
+"1116","Harborwalk, Waterfront, Boston","930","0 Constitution Avenue, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",684,461,1014
+"1116","Harborwalk, Waterfront, Boston","944","100 Cliff Road, Wellesley Hills, Wellesley","6/9/2018 - 6/9/2018, Every day, Daily Average",1511,1172,1947
+"1116","Harborwalk, Waterfront, Boston","945","0 Depot Road, Harvard","6/9/2018 - 6/9/2018, Every day, Daily Average",2724,2511,2954
+"1116","Harborwalk, Waterfront, Boston","955","100 Somerset Avenue, Winthrop","6/9/2018 - 6/9/2018, Every day, Daily Average",834,618,1124
+"1116","Harborwalk, Waterfront, Boston","965","200 River Road, Winthrop","6/9/2018 - 6/9/2018, Every day, Daily Average",959,728,1261
+"1116","Harborwalk, Waterfront, Boston","968","800 School Street, Mansfield","6/9/2018 - 6/9/2018, Every day, Daily Average",2662,2229,3179
+"1116","Harborwalk, Waterfront, Boston","978","100 Common Lane, Beverly","6/9/2018 - 6/9/2018, Every day, Daily Average",2033,1733,2384
+"1116","Harborwalk, Waterfront, Boston","980","0 Danton Drive, Methuen","6/9/2018 - 6/9/2018, Every day, Daily Average",1634,1409,1894
+"1116","Harborwalk, Waterfront, Boston","982","Vireo Loop, Marblehead","6/9/2018 - 6/9/2018, Every day, Daily Average",2292,1970,2665
+"1116","Harborwalk, Waterfront, Boston","983","200 Lynnway, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1414,1167,1711
+"1116","Harborwalk, Waterfront, Boston","984","0 D'Orlando Way, Danvers","6/9/2018 - 6/9/2018, Every day, Daily Average",1640,1359,1978
+"1116","Harborwalk, Waterfront, Boston","986","0 Harvard Avenue, West Medford, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",628,461,854
+"1116","Harborwalk, Waterfront, Boston","995","200 Billerica Road, Chelmsford","6/9/2018 - 6/9/2018, Every day, Daily Average",1738,1510,1999
+"1116","Harborwalk, Waterfront, Boston","996","Royal Plaza Drive, Marlborough","6/9/2018 - 6/9/2018, Every day, Daily Average",2796,2439,3205
+"1116","Harborwalk, Waterfront, Boston","998","0 Evergreen Avenue, Burlington","6/9/2018 - 6/9/2018, Every day, Daily Average",1393,1151,1684
+"1116","Harborwalk, Waterfront, Boston","999","100 Main Street, Wakefield","6/9/2018 - 6/9/2018, Every day, Daily Average",1030,810,1309
+"1116","Harborwalk, Waterfront, Boston","1000","0 Centre Street, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",854,642,1134
+"1116","Harborwalk, Waterfront, Boston","1001","0 Sargent Street, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",1045,743,1467
+"1116","Harborwalk, Waterfront, Boston","1002","500 Assembly Row, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",334,198,560
+"1116","Harborwalk, Waterfront, Boston","1003","0 Packard Avenue, Tufts, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",926,675,1269
+"1116","Harborwalk, Waterfront, Boston","1004","0 Linden Avenue, Spring Hill, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",902,649,1251
+"1116","Harborwalk, Waterfront, Boston","1005","100 Sidney Street, Cambridgeport, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",893,587,1358
+"1116","Harborwalk, Waterfront, Boston","1006","0 Gray Gardens East, Neighborhood Nine, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1183,875,1599
+"1116","Harborwalk, Waterfront, Boston","1007","0 Young Street, Lexington","6/9/2018 - 6/9/2018, Every day, Daily Average",1419,1190,1690
+"1116","Harborwalk, Waterfront, Boston","1010","0 Coolidge Hill Road, Watertown","6/9/2018 - 6/9/2018, Every day, Daily Average",1118,861,1450
+"1116","Harborwalk, Waterfront, Boston","1011","0 Burdean Road, Oak Hill, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1594,1220,2081
+"1116","Harborwalk, Waterfront, Boston","1012","0 Wilde Road, Waban, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1302,1037,1633
+"1116","Harborwalk, Waterfront, Boston","1013","100 Seminary Avenue, Auburndale, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1172,913,1503
+"1116","Harborwalk, Waterfront, Boston","1014","0 Nixon Road, Framingham","6/9/2018 - 6/9/2018, Every day, Daily Average",1625,1287,2051
+"1116","Harborwalk, Waterfront, Boston","1016","100 Buckminster Road, Fisher Hill, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",1222,901,1656
+"1116","Harborwalk, Waterfront, Boston","1017","0 Tudor Road, Needham","6/9/2018 - 6/9/2018, Every day, Daily Average",1658,1277,2151
+"1116","Harborwalk, Waterfront, Boston","1021","100 Walpole Street, Sharon","6/9/2018 - 6/9/2018, Every day, Daily Average",2057,1654,2556
+"1116","Harborwalk, Waterfront, Boston","1023","0 Norman Street, Milton","6/9/2018 - 6/9/2018, Every day, Daily Average",1534,1113,2112
+"1116","Harborwalk, Waterfront, Boston","1024","300 Adams Street, Milton","6/9/2018 - 6/9/2018, Every day, Daily Average",839,567,1241
+"1116","Harborwalk, Waterfront, Boston","1025","0 Reservoir Drive, Randolph","6/9/2018 - 6/9/2018, Every day, Daily Average",1511,1101,2072
+"1116","Harborwalk, Waterfront, Boston","1027","300 Neck Street, North Weymouth, Weymouth","6/9/2018 - 6/9/2018, Every day, Daily Average",1972,1627,2389
+"1116","Harborwalk, Waterfront, Boston","1029","200 Pine Street, Norwell","6/9/2018 - 6/9/2018, Every day, Daily Average",1855,1548,2222
+"1116","Harborwalk, Waterfront, Boston","1033","Fall River Expressway, West Bridgewater","6/9/2018 - 6/9/2018, Every day, Daily Average",2217,1708,2876
+"1116","Harborwalk, Waterfront, Boston","1038","0 Old Rutherford Avenue, Charlestown, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",243,96,608
+"1116","Harborwalk, Waterfront, Boston","1039","0 Flint Place, South Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",724,531,986
+"1116","Harborwalk, Waterfront, Boston","1040","900 Massachusetts Avenue, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",434,234,802
+"1116","Harborwalk, Waterfront, Boston","1041","0 Kendall Street, South End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",757,489,1169
+"1116","Harborwalk, Waterfront, Boston","1042","0 Townsend Street, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",917,667,1259
+"1116","Harborwalk, Waterfront, Boston","1043","200 Savin Hill Avenue, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",585,362,944
+"1116","Harborwalk, Waterfront, Boston","1044","0 Ames Street, Mattapan, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1346,1046,1731
+"1116","Harborwalk, Waterfront, Boston","1045","0 Brockton Street, Mattapan, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1639,1307,2054
+"1116","Harborwalk, Waterfront, Boston","1047","0 Ardale Street, Roslindale, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1504,1180,1916
+"1116","Harborwalk, Waterfront, Boston","1048","Airport Road Terminal C - Departure Level, East Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",300,187,481
+"1116","Harborwalk, Waterfront, Boston","1056","0 Valley Road, Southborough","6/9/2018 - 6/9/2018, Every day, Daily Average",2134,1720,2647
+"1116","Harborwalk, Waterfront, Boston","1062","0 Rantoul Street, Beverly","6/9/2018 - 6/9/2018, Every day, Daily Average",2740,2005,3744
+"1116","Harborwalk, Waterfront, Boston","1064","0 Glen Forest Lane, Methuen","6/9/2018 - 6/9/2018, Every day, Daily Average",1585,1358,1849
+"1116","Harborwalk, Waterfront, Boston","1065","0 Volk Road, Dedham","6/9/2018 - 6/9/2018, Every day, Daily Average",2499,2034,3070
+"1116","Harborwalk, Waterfront, Boston","1068","1300 Bennington Street, East Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",811,587,1119
+"1116","Harborwalk, Waterfront, Boston","1075","0 Oakview Terrace, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1277,951,1713
+"1116","Harborwalk, Waterfront, Boston","1077","400 Moody Street, South Side, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1420,1127,1789
+"1116","Harborwalk, Waterfront, Boston","1078","0 Wellesley Street, South Medford, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",790,561,1110
+"1116","Harborwalk, Waterfront, Boston","1079","0 Brent Road, Lexington","6/9/2018 - 6/9/2018, Every day, Daily Average",1313,1059,1627
+"1116","Harborwalk, Waterfront, Boston","1080","0 Teaberry Lane, Braintree","6/9/2018 - 6/9/2018, Every day, Daily Average",1301,1017,1664
+"1116","Harborwalk, Waterfront, Boston","1089","200 Buck Knoll Road, Raynham","6/9/2018 - 6/9/2018, Every day, Daily Average",2757,2236,3398
+"1116","Harborwalk, Waterfront, Boston","1095","0 Oxford Street, Lynn","6/9/2018 - 6/9/2018, Every day, Daily Average",1866,1679,2073
+"1116","Harborwalk, Waterfront, Boston","1096","400 Cabot Street, Beverly","6/9/2018 - 6/9/2018, Every day, Daily Average",1611,1525,1701
+"1116","Harborwalk, Waterfront, Boston","1099","0 Station Street, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",1084,787,1492
+"1116","Harborwalk, Waterfront, Boston","1100","0 Lowell Street, Andover, Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",1641,1383,1946
+"1116","Harborwalk, Waterfront, Boston","1101","0 Hay Street, Newbury","6/9/2018 - 6/9/2018, Every day, Daily Average",2416,2057,2836
+"1116","Harborwalk, Waterfront, Boston","1102","0 Greenlodge Street, Dedham","6/9/2018 - 6/9/2018, Every day, Daily Average",1583,1232,2033
+"1116","Harborwalk, Waterfront, Boston","1103","100 Kendrick Avenue, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1266,1005,1594
+"1116","Harborwalk, Waterfront, Boston","1104","100 Grove Street, Braintree","6/9/2018 - 6/9/2018, Every day, Daily Average",1235,950,1604
+"1116","Harborwalk, Waterfront, Boston","1107","0 Winthrop Street, Kingston","6/9/2018 - 6/9/2018, Every day, Daily Average",2455,2089,2883
+"1116","Harborwalk, Waterfront, Boston","1110","Cambridge Street, Allston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",722,462,1128
+"1116","Harborwalk, Waterfront, Boston","1111","Northwest Expressway, Tyngsborough","6/9/2018 - 6/9/2018, Every day, Daily Average",2084,1994,2177
+"1116","Harborwalk, Waterfront, Boston","1112","1400 Shawsheen Street, Tewksbury","6/9/2018 - 6/9/2018, Every day, Daily Average",1205,995,1457
+"1116","Harborwalk, Waterfront, Boston","1113","200 Rangeway Road, North Billerica, Billerica","6/9/2018 - 6/9/2018, Every day, Daily Average",1630,1357,1957
+"1116","Harborwalk, Waterfront, Boston","1115","0 Boutwell Street, Wilmington","6/9/2018 - 6/9/2018, Every day, Daily Average",1552,1312,1835
+"1116","Harborwalk, Waterfront, Boston","1116","Harborwalk, Waterfront, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",297,121,723
+"1116","Harborwalk, Waterfront, Boston","1117","0 Gold Star Street, East Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",590,388,895
+"1116","Harborwalk, Waterfront, Boston","1118","0 McGreevey Way, Mission Hill, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",961,706,1307
+"1116","Harborwalk, Waterfront, Boston","1119","0 Coleus Park, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1023,683,1531
+"1116","Harborwalk, Waterfront, Boston","1120","0 Melville Avenue, Dorchester, Dorchester Center, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1049,730,1505
+"1116","Harborwalk, Waterfront, Boston","1121","100 Woodley Avenue, West Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1650,1409,1932
+"1116","Harborwalk, Waterfront, Boston","1122","100 Webster Avenue, Chelsea","6/9/2018 - 6/9/2018, Every day, Daily Average",613,395,949
+"1116","Harborwalk, Waterfront, Boston","1123","Conifer Path, Jamaica Hills / Pond, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1412,1084,1838
+"1116","Harborwalk, Waterfront, Boston","1126","0 Stark Avenue, Wakefield","6/9/2018 - 6/9/2018, Every day, Daily Average",1491,1095,2029
+"1116","Harborwalk, Waterfront, Boston","1127","100 South Border Road, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",538,375,771
+"1116","Harborwalk, Waterfront, Boston","1128","0 Lowden Avenue, Powder House Square, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",832,603,1146
+"1116","Harborwalk, Waterfront, Boston","1129","0 Shepard Street, Neighborhood Nine, Cambridge","6/9/2018 - 6/9/2018, Every day, Daily Average",1181,923,1509
+"1116","Harborwalk, Waterfront, Boston","1130","0 Louise Road, Belmont","6/9/2018 - 6/9/2018, Every day, Daily Average",1364,1014,1834
+"1116","Harborwalk, Waterfront, Boston","1131","Yankee Division Highway, Lexington","6/9/2018 - 6/9/2018, Every day, Daily Average",1351,1152,1584
+"1116","Harborwalk, Waterfront, Boston","1135","100 Main Street, Southborough","6/9/2018 - 6/9/2018, Every day, Daily Average",2421,1943,3015
+"1116","Harborwalk, Waterfront, Boston","1137","0 Marion Avenue, Woburn","6/9/2018 - 6/9/2018, Every day, Daily Average",1076,858,1349
+"1116","Harborwalk, Waterfront, Boston","1138","0 Loring Avenue, Winchester","6/9/2018 - 6/9/2018, Every day, Daily Average",953,752,1207
+"1116","Harborwalk, Waterfront, Boston","1140","300 Mystic Avenue, South Medford, Medford","6/9/2018 - 6/9/2018, Every day, Daily Average",432,276,674
+"1116","Harborwalk, Waterfront, Boston","1141","0 Forest Street, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",946,742,1206
+"1116","Harborwalk, Waterfront, Boston","1142","200 Massachusetts Avenue, Arlington","6/9/2018 - 6/9/2018, Every day, Daily Average",1083,732,1600
+"1116","Harborwalk, Waterfront, Boston","1143","300 Crescent Street, South Side, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1495,1117,2000
+"1116","Harborwalk, Waterfront, Boston","1144","0 Scout Road, East Walpole, Walpole","6/9/2018 - 6/9/2018, Every day, Daily Average",2011,1630,2479
+"1116","Harborwalk, Waterfront, Boston","1145","0 Hamilton Road, Peabody","6/9/2018 - 6/9/2018, Every day, Daily Average",1562,1256,1942
+"1116","Harborwalk, Waterfront, Boston","1146","200 Low Street, Newburyport","6/9/2018 - 6/9/2018, Every day, Daily Average",2591,2229,3010
+"1116","Harborwalk, Waterfront, Boston","1151","0 Saugus Avenue, Saugus","6/9/2018 - 6/9/2018, Every day, Daily Average",1070,797,1435
+"1116","Harborwalk, Waterfront, Boston","1154","0 Newport Park Road, Manchester-by-the-Sea","6/9/2018 - 6/9/2018, Every day, Daily Average",2362,1964,2839
+"1116","Harborwalk, Waterfront, Boston","1155","600 Great Pond Road, North Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",2039,1737,2393
+"1116","Harborwalk, Waterfront, Boston","1157","100 Blue Ledge Drive, Roslindale, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1860,1421,2433
+"1116","Harborwalk, Waterfront, Boston","1160","100 Austin Street, Hyde Park, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1835,1362,2470
+"1116","Harborwalk, Waterfront, Boston","1162","300 North Road, North Chelmsford, Chelmsford","6/9/2018 - 6/9/2018, Every day, Daily Average",1902,1686,2145
+"1116","Harborwalk, Waterfront, Boston","1163","300 East Eagle Street, Eagle Hill, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",453,257,796
+"1116","Harborwalk, Waterfront, Boston","1164","0 West Howell Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",473,278,803
+"1116","Harborwalk, Waterfront, Boston","1165","900 American Legion Highway, Roslindale, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1671,1305,2138
+"1116","Harborwalk, Waterfront, Boston","1170","0 Garden Avenue, Wilmington","6/9/2018 - 6/9/2018, Every day, Daily Average",1174,959,1436
+"1116","Harborwalk, Waterfront, Boston","1171","Dike Road, Stoneham","6/9/2018 - 6/9/2018, Every day, Daily Average",656,484,888
+"1116","Harborwalk, Waterfront, Boston","1173","300 Lafayette Street, Salem","6/9/2018 - 6/9/2018, Every day, Daily Average",2505,2226,2818
+"1116","Harborwalk, Waterfront, Boston","1174","600 Lynn Fells Parkway, Melrose","6/9/2018 - 6/9/2018, Every day, Daily Average",1084,887,1324
+"1116","Harborwalk, Waterfront, Boston","1175","0 Fellsmere Road, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",801,595,1076
+"1116","Harborwalk, Waterfront, Boston","1177","0 Louds Avenue, Weymouth","6/9/2018 - 6/9/2018, Every day, Daily Average",1329,1042,1694
+"1116","Harborwalk, Waterfront, Boston","1178","0 Trustman Terrace, East Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",508,308,837
+"1116","Harborwalk, Waterfront, Boston","1179","100 West Canton Street, Columbus, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",581,319,1056
+"1116","Harborwalk, Waterfront, Boston","1181","0 Butternut Avenue, Peabody","6/9/2018 - 6/9/2018, Every day, Daily Average",1531,1245,1882
+"1116","Harborwalk, Waterfront, Boston","1182","0 Park Street, Andover, Andover","6/9/2018 - 6/9/2018, Every day, Daily Average",1872,1548,2263
+"1116","Harborwalk, Waterfront, Boston","1185","0 Parsons Street, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1234,944,1612
+"1116","Harborwalk, Waterfront, Boston","1186","0 Norway Park, Hyde Park, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1501,1125,2001
+"1116","Harborwalk, Waterfront, Boston","1189","0 Fairbanks Street, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",832,575,1203
+"1116","Harborwalk, Waterfront, Boston","1190","0 Willow Avenue, Davis Square, Somerville","6/9/2018 - 6/9/2018, Every day, Daily Average",994,759,1300
+"1116","Harborwalk, Waterfront, Boston","1191","0 Springfield Street, Lawrence","6/9/2018 - 6/9/2018, Every day, Daily Average",1831,1528,2193
+"1116","Harborwalk, Waterfront, Boston","1192","0 Woodside Road, Winchester","6/9/2018 - 6/9/2018, Every day, Daily Average",990,763,1283
+"1116","Harborwalk, Waterfront, Boston","1193","1100 Beacon Street, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",697,445,1089
+"1116","Harborwalk, Waterfront, Boston","1195","0 Howe Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",867,611,1229
+"1116","Harborwalk, Waterfront, Boston","1197","100 North Pearl Street, Brockton","6/9/2018 - 6/9/2018, Every day, Daily Average",1854,1342,2559
+"1116","Harborwalk, Waterfront, Boston","1198","100 Ashland Street, Malden","6/9/2018 - 6/9/2018, Every day, Daily Average",812,551,1195
+"1116","Harborwalk, Waterfront, Boston","1199","Lifecourse Trail, Newton Highlands, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1465,1165,1840
+"1116","Harborwalk, Waterfront, Boston","1202","0 Charles Street, East Weymouth, Weymouth","6/9/2018 - 6/9/2018, Every day, Daily Average",1653,1314,2078
+"1116","Harborwalk, Waterfront, Boston","1204","0 Emerson Street, Rockland","6/9/2018 - 6/9/2018, Every day, Daily Average",2295,1950,2699
+"1116","Harborwalk, Waterfront, Boston","1208","0 1st Street, Bridgewater","6/9/2018 - 6/9/2018, Every day, Daily Average",2535,2028,3168
+"1116","Harborwalk, Waterfront, Boston","1211","Chestnut Hill Reservoir Trail, Brighton, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1340,1017,1764
+"1116","Harborwalk, Waterfront, Boston","1212","0 Snow Hill Street, North End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",251,110,568
+"1116","Harborwalk, Waterfront, Boston","1213","200 East 8th Street, South Boston, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",707,501,995
+"1116","Harborwalk, Waterfront, Boston","1214","0 East Concord Street, South End, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",542,320,917
+"1116","Harborwalk, Waterfront, Boston","1215","0 Beauford Lane, Roxbury, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1124,753,1677
+"1116","Harborwalk, Waterfront, Boston","1225","0 West Elm Avenue, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1135,800,1608
+"1116","Harborwalk, Waterfront, Boston","1226","0 Sturtevant Street, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",689,433,1094
+"1116","Harborwalk, Waterfront, Boston","1227","0 Port Norfolk Street, Dorchester, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",726,466,1129
+"1116","Harborwalk, Waterfront, Boston","1228","0 Ashley Street, Jamaica Plain, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1118,814,1534
+"1116","Harborwalk, Waterfront, Boston","1229","0 Michael Road, Wakefield","6/9/2018 - 6/9/2018, Every day, Daily Average",1326,998,1761
+"1116","Harborwalk, Waterfront, Boston","1230","100 Millwood Street, Framingham","6/9/2018 - 6/9/2018, Every day, Daily Average",1676,1346,2086
+"1116","Harborwalk, Waterfront, Boston","1232","400 Newton Street, Chestnut Hill, Brookline","6/9/2018 - 6/9/2018, Every day, Daily Average",1567,1233,1990
+"1116","Harborwalk, Waterfront, Boston","1233","0 Thackeray Road, Wellesley Hills, Wellesley","6/9/2018 - 6/9/2018, Every day, Daily Average",1392,1106,1750
+"1116","Harborwalk, Waterfront, Boston","1237","100 Colonial Drive, Quincy","6/9/2018 - 6/9/2018, Every day, Daily Average",1273,981,1650
+"1116","Harborwalk, Waterfront, Boston","1238","0 Orient Avenue, Arlington","6/9/2018 - 6/9/2018, Every day, Daily Average",1160,944,1425
+"1116","Harborwalk, Waterfront, Boston","1239","0 Walnut Street, Belmont","6/9/2018 - 6/9/2018, Every day, Daily Average",1399,1117,1750
+"1116","Harborwalk, Waterfront, Boston","1240","0 Middlesex Circle, Waltham","6/9/2018 - 6/9/2018, Every day, Daily Average",1666,1359,2040
+"1116","Harborwalk, Waterfront, Boston","1241","0 Kenilworth Street, Newton Corner, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1036,807,1329
+"1116","Harborwalk, Waterfront, Boston","1242","0 Scribner Park, Auburndale, Newton","6/9/2018 - 6/9/2018, Every day, Daily Average",1041,800,1353
+"1116","Harborwalk, Waterfront, Boston","1245","0 Leland Road, North Reading","6/9/2018 - 6/9/2018, Every day, Daily Average",1295,1081,1550
+"1116","Harborwalk, Waterfront, Boston","1246","North Shore Road, Revere","6/9/2018 - 6/9/2018, Every day, Daily Average",1108,896,1369
+"1116","Harborwalk, Waterfront, Boston","1247","Stony Brook Path, Boston","6/9/2018 - 6/9/2018, Every day, Daily Average",1645,1357,1992
